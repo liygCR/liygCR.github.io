@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{software.html}
+= Software
+
+== On CRAN
+
+- [https://cran.r-project.org/web/packages/HSDiC/index.html HSDiC] implementing Homogeneity and Sparsity Detection Incorporating Prior Constraint Information. 
+
+- [https://cran.r-project.org/web/packages/LassoGEE/index.html LassoGEE] implementing High-Dimensional Lasso Generalized Estimating Equations.
+
+
+== On GitHub
+
+- [https://github.com/liygCR/breakPSAR breakPSAR]  implementing A novel and Fast Multiple Structural Break Estimation for Nonstationary Time Series Models.
+
+- [https://github.com/liygCR/mAFT mAFT] implementing Multi-threshold Accelerate Failure Time Model.
+
+- [https://github.com/liygCR/FPMD FPMD] estimating multiple discontinuities for a functional data process.

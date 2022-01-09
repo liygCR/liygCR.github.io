@@ -1,0 +1,55 @@
+# jemdoc: menu{MENU}{index.html}  
+= Yaguang Li's Homepage 
+{{<link rel="icon" href="photo/profile.jpg" />}}
+~~~
+{}{img_left}{photos/profile.jpg}{alt text}{225}{215}{}
+Postdoctoral Fellow
+\n [https://en.business.ustc.edu.cn Department of Statistics and Finance] 
+\n [https://en.ustc.edu.cn University of Science and Technology of China]\n
+
+Address: No.96, JinZhai Road Baohe District \n
+         Hefei, Anhui, 230026, P.R.China. \n 
+Email: /liyg/ \[@\] ustc \[DOT\] edu \[DOT\] cn\n
+
+
+~~~
+
+== About Me
+I am currently a Post-Doc Fellow at the Department of Statistics and Finance, University of Science and Technology of China (USTC), and before that I was a Post-Doc Fellow at Dalla Lana School of Public Health, University of Toronto. Previously, I was a Ph.D student at University of Science and Technology of China (USTC), supervised by Prof. Yaohua Wu and Prof. [https://bs.ustc.edu.cn/chinese/profile-91.html Baisuo Jin].
+
+My research interests revolve around a variety of topics in High-dimensional statistical learning, Change-point, Functional/spatial data analysis, Precision (personalized) medicine.
+
+== Education
+- 2018, Ph.D in Statistics, [https://en.ustc.edu.cn University of Science and Technology of China]
+- 2012, B.S. in Mathematics, [https://en.scut.edu.cn South China University of Technology]
+
+== Award
+- Suzhou Industrial Park Scholarship, USTC, 2017
+- Graduate academic scholarships, USTC, 2015 -- 2017
+
+== Recent News 
+- 
+
+
+{{ 
+<!-- Default Statcounter code for Personal Homepage
+https://liygCR.github.io/ -->
+<script type="text/javascript">
+var sc_project=12370136; 
+var sc_invisible=1; 
+var sc_security="3374456b"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics
+Made Easy - StatCounter" href="https://statcounter.com/"
+target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/12370136/0/3374456b/1/"
+alt="Web Analytics Made Easy -
+StatCounter"></a></div></noscript>
+<!-- End of Statcounter Code -->
+}}
+
+
+
