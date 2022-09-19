@@ -1,4 +1,3 @@
-jemdoc *.jemdoc
 
 git add .
 git rm .DS_Store
